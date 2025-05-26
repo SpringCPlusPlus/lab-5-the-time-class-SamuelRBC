@@ -58,3 +58,5 @@ ostream &operator<<(ostream &os, const Time &tm)
     os << tm.hours << "h " << tm.minutes << "m";
     return os;
 }
+{
+}
